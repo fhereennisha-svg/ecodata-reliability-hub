@@ -1,0 +1,9 @@
+measurement_id,site_id,recorded_at_utc,metric,value,unit,data_source
+M-001,BER-001,2026-10-11T06:00:00+00:00,temperature,18.5,celsius,SIMULATED
+M-002,BER-001,2026-10-11T06:00:00+00:00,energy_consumption,145.8,kWh,SIMULATED
+M-003,HAM-001,2026-10-11T06:15:00+00:00,water_consumption,82.4,litres,SIMULATED
+M-004,HAM-001,2026-10-11T06:15:00+00:00,temperature,250.0,celsius,SIMULATED
+M-005,MUN-001,2026-10-11T06:30:00+00:00,energy_consumption,-40.0,kWh,SIMULATED
+M-006,MUN-001,,water_consumption,65.0,litres,SIMULATED
+M-007,FRA-001,2026-10-11T06:45:00+00:00,temperature,,celsius,SIMULATED
+M-007,FRA-001,2026-10-11T06:45:00+00:00,temperature,21.2,celsius,SIMULATED

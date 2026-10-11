@@ -1,0 +1,25 @@
+# Secrets
+.env
+.env.*
+
+# Virtual environments
+.venv/
+venv/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Generated databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated data and reports
+data/processed/*
+!data/processed/.gitkeep
+
+# Editors and operating systems
+.vscode/
+.DS_Store
+Thumbs.db
